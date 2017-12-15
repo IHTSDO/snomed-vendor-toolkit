@@ -1,5 +1,7 @@
 # SNOMED CT Vendor Toolkit (beta)
-This repository is toolkit for those looking to implement SNOMED CT into any software solution. The toolkit provides a single location to access key documents, tools and education information
+This repository is toolkit for those looking to implement SNOMED CT into any software solution. The toolkit provides a single location to access key documents, tools and education information.
+
+To download a local copy of this repository, please see the [releases page](https://github.com/IHTSDO/snomed-vendor-toolkit/releases).
 
 ## Introduction
 Over the last 3 years, SNOMED International has made a concerted effort to engage software and services vendors who provide solutions in the healthcare space, with the aim of better understanding and supporting vendors in their efforts to deliver the best possible solutions to their customers.
