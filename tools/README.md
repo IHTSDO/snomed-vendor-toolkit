@@ -8,8 +8,8 @@ A by-product of this is that we make all of our developed code available as open
 
 There are currently two ways available to load and query SNOMED CT in your local environment:
 
-* SNOMED CT Query Service
-* SNOMED CT Snapshot Browser API
+* [SNOMED CT Query Service](sct-query-server)
+* [SNOMED CT Snapshot Browser API](sct-browser-api)
 
 Both can be used in tandem or separately depending on your use case.
 

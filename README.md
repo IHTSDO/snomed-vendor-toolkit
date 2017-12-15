@@ -16,13 +16,16 @@ From these questions was borne the concept of the **Vendor Toolkit**, a resource
 
 While the Toolkit is intended to grow and evolve based on vendor feedback and our understanding of requirements, the Toolkit initially contains the following sections:
 
-### Education
+### [Documents](docs)
+SNOMED International has an extensive library of documents on SNOMED CT from starter guides to how to implement SNOMED CT in healthcare systems. We have provided some initial useful documents here in one location to get you and your teams started.
+
+### [Education](education)
 The SNOMED International Education and Product Support group provide a robust platform for educating staff at various levels and roles within vendor organizations.  We have curated the SNOMED CT education offerings to provide value to novice developers, experienced terminologists and technicians, as well as business resources who may find a need to better understand SNOMED CT.
 
-### Tooling
+### [Tooling](tools)
 From an implementation and adoption perspective, purpose-built tooling is a critical component for easily integrating SNOMED CT into disparate vendor solutions.  SNOMED International’s Technical Services team provide valuable and easy to use tooling that will provide significant assistance to software developers.
 
-### Content
+### [Content](content)
 Providing content products represent a less straight-forward, yet necessary, proposition given the diverse needs of end-users.  To close this gap we’ve provided links and access to Refsets resources developed by some of SNOMED International’s most advanced Member National Release Centres (NRCs).  
 
 
