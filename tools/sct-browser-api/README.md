@@ -21,7 +21,7 @@ sct-snapshot-rest-api: $ node app.js
 IMPORTANT: This API needs to have local access to the MongoDB server where the terminology data has been loaded into.
 The SNOMED CT data for the mongo instance can be obtained via your local National Resource Center (info in http://www.ihtsdo.org/members).
 
-Once you have the SNOMED CT Files in RF2 format (standard release files) you can create a JSON file for importing into Mongo using the RF2 to JSON conversion utility in this directory in the toolkit. Follow the instructions provided there on how to convert into JSON and import into the MongoDB.
+Once you have the SNOMED CT Files in RF2 format (standard release files) you can create a JSON file for importing into Mongo using the RF2 to JSON conversion utility in this directory, **rf2-json-conversion.md**, in the toolkit. Follow the instructions provided there on how to convert into JSON and import into the MongoDB.
 
 
 Access the server

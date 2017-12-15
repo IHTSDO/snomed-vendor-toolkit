@@ -1,5 +1,10 @@
-# SNOMED CT Tools v1
-Useful tools to get up and running with SNOMED CT quickly.
+# SNOMED CT Tools
+
+SNOMED CT, and terminology in general, is a necessary component of any healthcare-focused software to ensure accuracy across systems and domains, and is a key piece of the interoperability function that all systems strive to enable.
+
+We strive to support vendors that are new to SNOMED CT, as well as vendors with deep experience in managing terminology, with products and services that make the implementation and use of SNOMED CT easier and more efficient.  SNOMED International Tooling consists of the services and tools that support the SNOMED CT International and Spanish Edition product life cycles, and the systems that are used to support SNOMED International, its Members and the community of practice.
+
+A by-product of this is that we make all of our developed code available as open source under an Apache v2 license.
 
 There are currently two ways available to load and query SNOMED CT in your local environment:
 
