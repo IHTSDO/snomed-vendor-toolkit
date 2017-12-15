@@ -12,7 +12,7 @@ This document provides useful links to SNOMED CT education, available on the [E-
 
 ## Software Developers
 
-SNßOMED CT for Developers is a learning pathway for software developers to quickly come up to speed with SNOMED CT and learn how it can be used to enhance software solutions. This learning pathway contains a series of presentations and related resources. Developers are free to pick and choose the topics that are most relevant to their software application. For information on how to use this service please refer to the [E-Learning Guide](https://elearning.ihtsdotools.org/mod/book/view.php?id=771).  
+SNOMED CT for Developers is a learning pathway for software developers to quickly come up to speed with SNOMED CT and learn how it can be used to enhance software solutions. This learning pathway contains a series of presentations and related resources. Developers are free to pick and choose the topics that are most relevant to their software application. For information on how to use this service please refer to the [E-Learning Guide](https://elearning.ihtsdotools.org/mod/book/view.php?id=771).  
 
 The Developer’s learning pathway includes:
 
