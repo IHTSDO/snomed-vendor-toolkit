@@ -1,5 +1,5 @@
-# SNOMED CT Vendor Toolkit
-A toolkit for those looking to implement SNOMED CT with documents, tools and useful links
+# SNOMED CT Vendor Toolkit (beta)
+This repository is toolkit for those looking to implement SNOMED CT into any software solution. The toolkit provides a single location to access key documents, tools and education information
 
 ## Introduction
 Over the last 3 years, SNOMED International has made a concerted effort to engage software and services vendors who provide solutions in the healthcare space, with the aim of better understanding and supporting vendors in their efforts to deliver the best possible solutions to their customers.
@@ -14,7 +14,7 @@ Given these significant differences, the Vendor Engagement group at SNOMED Inter
 
 From these questions was borne the concept of the **Vendor Toolkit**, a resource for vendors that attempts to address these barriers to implementation through the easy access to resources that help answer these questions.
 
-While the Toolkit is intended to grow and evolve based on vendor feedback and our understanding of requirements, the Toolkit initially contains the following sections:
+While the Toolkit is intended to grow and evolve based on vendor feedback and our understanding of requirements, the Toolkit initially contains the following directories:
 
 ### [Documents](docs)
 SNOMED International has an extensive library of documents on SNOMED CT from starter guides to how to implement SNOMED CT in healthcare systems. We have provided some initial useful documents here in one location to get you and your teams started.
