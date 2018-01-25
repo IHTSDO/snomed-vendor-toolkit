@@ -57,7 +57,7 @@ You can find sample config files in the `config` folder.
 Run the executable jar file:
 
 ```
-java -Xmx8g -jar rf2-to-json-conversion-1.0-SNAPSHOT-jar-with-dependencies.jar config.xml
+java -Xmx8g -jar rf2-to-json-conversion-1.2-SNAPSHOT-jar-with-dependencies.jar config.xml
 ```
 
 The results will be a set of .json files in the output folder.
